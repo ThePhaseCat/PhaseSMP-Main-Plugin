@@ -1,0 +1,6 @@
+name: JoinLeaveSMPMessages
+version: '${project.version}'
+main: me.thephasecat.join_leave_smp_messages.Join_leave_smp_messages
+api-version: 1.19
+authors: [ ThePhaseCat ]
+description: Message plugin for SMP's (now with color!)
